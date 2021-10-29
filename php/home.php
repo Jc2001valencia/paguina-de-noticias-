@@ -51,6 +51,7 @@ if(!isset($_SESSION['usuario'])){
             <img src="../img/brand1.png" alt="LOGO" class="nav-brand">
             <ul>
                  <!-- Left Nav -->
+                 <!-- comentario nuevi -->
       <ul class="nav-menu">
                 <li>
                     <a href="../php/home.php">Nuevas Tecnologias</a>
